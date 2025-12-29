@@ -1,4 +1,4 @@
-📱 E-Commerce Mobile App (Local Data Based)
+📱 Store UI (Local Data Based)
 
 A simple and clean E-Commerce mobile application built to demonstrate core shopping features using local data for content management, while product images are loaded from the internet to simulate a real-world experience.
 
