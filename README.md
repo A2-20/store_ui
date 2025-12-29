@@ -74,7 +74,7 @@ Improve UI and state management skills
 This application is for learning and demonstration purposes only and does not include real payment processing.
 
 
-/Users/ahmadtalha/Projects/flutter projects/store/Screen-Recording.gif
+Screen-Recording.gif
 
 
 
