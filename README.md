@@ -72,7 +72,7 @@ Improve UI and state management skills
 
 📌 Note:
 This application is for learning and demonstration purposes only and does not include real payment processing.
-
+----------------------------------------------------
 
 ![Screen-Recording.gif](Screen-Recording.gif)
 
