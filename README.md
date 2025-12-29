@@ -1,16 +1,74 @@
-# store
+📱 E-Commerce Mobile App (Local Data Based)
 
-A new Flutter project.
+A simple and clean E-Commerce mobile application built to demonstrate core shopping features using local data for content management, while product images are loaded from the internet to simulate a real-world experience.
 
-## Getting Started
+🚀 App Features
 
-This project is a starting point for a Flutter application.
+🏠 Home Screen
 
-A few resources to get you started if this is your first Flutter project:
+Displays products using local data
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Loads product images from online sources
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+❤️ Favorites Screen
+
+Add and remove products from favorites
+
+Persistent favorite items
+
+🛒 Purchase Screen
+
+View selected products
+
+Simulated checkout / purchase flow
+
+📦 Previous Orders Screen
+
+Displays order history
+
+Review previously purchased products
+
+👤 Profile Screen
+
+View user profile information
+
+Edit personal data such as:
+
+Phone number
+
+Email address
+
+🗄️ Data Management
+
+Application data is stored locally
+
+Only images are fetched from the internet
+
+User profile data is editable and stored locally
+
+🛠️ Technologies Used
+
+Flutter & Dart
+
+Local Data Storage
+
+Network Images
+
+Clean UI Design
+
+State Management (Provider / Bloc)
+
+🎯 Project Purpose
+
+This project was built to:
+
+Practice building an e-commerce app structure
+
+Work with local data in Flutter
+
+Implement common shopping app features
+
+Improve UI and state management skills
+
+📌 Note:
+This application is for learning and demonstration purposes only and does not include real payment processing.
